@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrRitzer
-- 👀 I’m interested in software development and artificial intelligence!
-- 🌱 I’m currently completing a Masters in Comupter Science at NDSU
+- 👀 I’m interested in software development/networking/data science.
+- 🌱 I’m currently completing a Masters in Comupter Science at NDSU (Bachelors 2022 Fall. Masters 2023 Spring)
 - 💞️ I’m looking to collaborate on anything I can
 - 📫 How to reach me -> nmritter02@gmail.com
 
