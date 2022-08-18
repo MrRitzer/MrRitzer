@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrRitzer
+- 👋 Hi, I’m Noah Ritter
 - 👀 I’m interested in software development/networking/data science.
 - 🌱 I’m currently completing a Masters in Computer Science at NDSU (Bachelors 2022 Fall. Masters 2023 Spring)
 - 💞️ I’m looking to collaborate on anything I can
